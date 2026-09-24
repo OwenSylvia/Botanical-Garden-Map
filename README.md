@@ -51,10 +51,3 @@ Every object on the canvas has been hand-digitized, styled according to its oper
 * **Subsurface Wastewater & Sewage Drainage Point:** Critical municipal infrastructure routing wastewater effluent out of public areas. Strictly isolated for safety compliance, monitoring, and facility operations.
 
 ---
-
-## Key GIS Capabilities Demonstrated
-1. **Visual Feature Architecture:** Rebuilding generic GIS field shapefiles manually into clean vector polygons, multi-stop paths, and custom points on high-resolution satellite imagery.
-2. **Dynamic Layer Decluttering Management:** Utilizing native speech-bubble parameter switches to force custom label priority (`Always Show`) while cleaning background road text vectors.
-3. **Smart Client Link Deployment:** Mastering data visibility toggles via folder configuration groups to control client access links cleanly without hard-coding complex map parameters.
-4. **Active Navigation Tracking:** Toggling live device location-tracking protocols so actual field visitors can see their real-time blue dot navigate the grounds on mobile browsers.
-
