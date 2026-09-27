@@ -16,7 +16,7 @@ This clean, user-facing layout is designed for standard visitors, tourists, and 
 ###  2. VIP & Facility Director View
 This administrative map layer profile dynamically overrides default visibility settings upon launch. Intended strictly for grounds management, municipal engineers, and maintenance crews, this link forces open our restricted backend utility data layers.
 
-➡️ **[Launch Live VIP Administrative Map View](https://felt.com/map/Botanical-Garden-Infrastructure-PF9Bk44T6RV2urAAVlQf3GD?loc=34.617123,-120.209167,18.4z)**
+➡️ **[Launch Live VIP Administrative Map View](https://felt.com/map/Botanical-Garden-Infrastructure-PF9Bk44T6RV2urAAVlQf3GD?loc=34.616992,-120.208637,18.1z)**
 
 
 ---
